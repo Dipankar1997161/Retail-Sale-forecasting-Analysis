@@ -13,7 +13,11 @@ The remaining files are the new and detailed Sales Forecasting on another datase
 
 ## Results
 
-**EDA**
+**few EDA**
+
+![new count](https://user-images.githubusercontent.com/85514219/229319693-9d5cc847-b1c4-49c2-a649-66b7e23c88e4.png)
+![count](https://user-images.githubusercontent.com/85514219/229319694-dabf04d0-0c6e-426f-93e0-466e46a658a9.png)
+
 
 **Normal Forecasting:**
 
@@ -26,4 +30,5 @@ The remaining files are the new and detailed Sales Forecasting on another datase
 ![store_6_components_holiday](https://user-images.githubusercontent.com/85514219/229319434-d9527c71-c77d-49b3-bf40-4c5bb06a9320.png)
 
 
-
+## Conclusion
+Forecasting is indeed one of the major business necessity. Although, these models might not give you an accurate results, but it can provide an estimate which can help business /sales
