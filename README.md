@@ -1,4 +1,4 @@
-# Store_sales_prediction
+# Retail-Sale-forecasting-Analysis
 
 Sales forecasting is a crucial business exercise. Accurate sales forecasts allow business leaders to make smarter decisions about things like goal-setting, budgeting, hiring, and other things that affect cash flow. Sales forecasts are usually based on historical data, industry trends, and the status of the current sales pipeline. Businesses use the sales forecast to estimate weekly, monthly, quarterly, and annual sales totals.
 <p align="center">
