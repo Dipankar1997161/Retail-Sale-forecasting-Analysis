@@ -8,7 +8,7 @@ Sales forecasting is a crucial business exercise. Accurate sales forecasts allow
 In this project, the prediction of sales is done using forecasting procedure fbprophet developed by Facebook's core Data Science team. Prophet forecasts time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
 
 ## Project Files: 
-"Sales Forecast" folder consists of my older and basic sales forecasting using FbProphet. I did that to learn more on FbProphet and Forecasting problems.
+"Sales Forecast" folder consists of my older and basic sales forecasting using FbProphet (2 Weeks Back). I did that to learn more on FbProphet and Forecasting problems.
 The remaining files are the new and detailed Sales Forecasting on another dataset with proper EDA and Sales Forecasting
 
 ## Results
