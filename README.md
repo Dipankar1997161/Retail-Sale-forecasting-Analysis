@@ -1,11 +1,14 @@
 # Retail-Sale-forecasting-Analysis
 
 Sales forecasting is a crucial business exercise. Accurate sales forecasts allow business leaders to make smarter decisions about things like goal-setting, budgeting, hiring, and other things that affect cash flow. Sales forecasts are usually based on historical data, industry trends, and the status of the current sales pipeline. Businesses use the sales forecast to estimate weekly, monthly, quarterly, and annual sales totals.
-<p align="center">
-    <img alt="SalesPredict" title="Sales Prediction" src="https://www.entrepreneurshipinabox.com/wp-content/uploads/sales-forecast-template-for-your-business.jpg" width="600" height="400">
-</p>
 
 In this project, the prediction of sales is done using forecasting procedure fbprophet developed by Facebook's core Data Science team. Prophet forecasts time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
+
+## DASHBOARD
+A sales analysis dashboard of a DEEPAK GOODS company from India has been created using MICROSOFT POWER BI
+
+![CUSTOMER SALES_page-0001(1)](https://user-images.githubusercontent.com/85514219/231272114-a330a9d0-7b40-434a-991d-7daf58347f2b.jpg)
+
 
 ## Project Files: 
 "Sales Forecast" folder consists of my older and basic sales forecasting using FbProphet (2 Weeks Back). I did that to learn more on FbProphet and Forecasting problems.
